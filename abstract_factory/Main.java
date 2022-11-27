@@ -1,4 +1,4 @@
-package src.main.design_patterns_java;
+package src.main.design_patterns_java.abstract_factory;
 
 import src.main.design_patterns_java.abstract_factory.*;
 
